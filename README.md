@@ -1,1 +1,1 @@
-# CV
+This is a CV web application, for my GitHub profile.
